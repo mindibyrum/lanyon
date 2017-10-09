@@ -6,8 +6,8 @@ markdown: kramdown
 permalink:           pretty
 plugins: [jekyll-paginate]
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               Mindi Byrum
+tagline:             'Resume'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://mindibyrum.github.io
 baseurl:             ''
