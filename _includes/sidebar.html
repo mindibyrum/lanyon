@@ -21,7 +21,8 @@
 			{% if node.title != null %}
 				{% if node.layout == "page" %}
 					<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | prepend:site.baseurl }}">{{ node.title }}</a>
-				{% endif %}
+				  <a class="sidebar-nav-item" href="www.linkedin.com/in/mindi-byrum">Connect on LinkedIn</a>
+        {% endif %}
 			{% endif %}
 		{% endfor %}
 
