@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 # Setup
 title:               Mindi Byrum
 tagline:             'Portfolio'
-description:         'Freelance Editor with a Bachelor's Degree in English, pursuing a career in editing, copywriting, or public relations!
+description:         'Freelance Editor with a Bachelor's Degree in English, pursuing a career in editing, copywriting, or public relations!'
 url:                 https://mindibyrum.github.io
 baseurl:             ''
 paginate:            5
