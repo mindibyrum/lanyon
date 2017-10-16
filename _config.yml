@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 # Setup
 title:               Mindi Byrum
 tagline:             'Portfolio'
-description:         "Texas A&M Student and Freelance Editor"
+description:         "Texas A&M English Major and Freelance Editor"
 url:                 https://mindibyrum.github.io
 baseurl:             ''
 paginate:            5
