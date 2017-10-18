@@ -1,3 +1,5 @@
+<!-- Format for logo, referenced in CSS on includes/head.html, linked to gravatar on includes/sidebar.html -->
+
 .sidebar {
        opacity: 0.8;
 }
@@ -17,4 +19,3 @@
       width: 160px;
       margin: 0 auto;
 }
-
